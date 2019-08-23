@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19466" started-at="2019-08-22T14:37:20Z" finished-at="2019-08-22T14:37:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19466" started-at="2019-08-22T14:37:20Z" finished-at="2019-08-22T14:37:39Z">
+      <class name="fankitc.Fancje">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:fankitc.Fancje@224edc67]" name="startReport" is-config="true" duration-ms="259" started-at="2019-08-22T14:37:19Z" finished-at="2019-08-22T14:37:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="main()[pri:0, instance:fankitc.Fancje@224edc67]" name="main" duration-ms="19438" started-at="2019-08-22T14:37:20Z" finished-at="2019-08-22T14:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:fankitc.Fancje@224edc67]" name="getResult" is-config="true" duration-ms="2" started-at="2019-08-22T14:37:39Z" finished-at="2019-08-22T14:37:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=main status=SUCCESS method=Fancje.main()[pri:0, instance:fankitc.Fancje@224edc67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:fankitc.Fancje@224edc67]" name="endReport" is-config="true" duration-ms="665" started-at="2019-08-22T14:37:39Z" finished-at="2019-08-22T14:37:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- fankitc.Fancje -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
